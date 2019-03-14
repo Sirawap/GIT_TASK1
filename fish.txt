@@ -4,3 +4,9 @@ Dogfish
 Goldfinch 
 Goldfish 
 Herring 
+Salmon
+Sardine 
+Seahorse
+Shark 
+Stingray 
+Trout   
