@@ -72,6 +72,9 @@ Fox
 Frog
 Gaur
 Gazelle
+-----------------------------------
+BILL:
+
 Gerbil
 Giant Panda
 Giraffe
@@ -153,6 +156,11 @@ Peafowl
 Pelican
 Penguin
 Pheasant
+
+----------------------------------------
+
+BRIGHT :
+
 Pig
 Pigeon
 Pony
