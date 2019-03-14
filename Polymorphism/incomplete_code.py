@@ -29,7 +29,15 @@ class Uber(Transportation):
    def find_cost( self ):
       return self.distance * 50
 
+class Taxi(Transportation):
+    def __init__(self, start, end, distance ):
+        Transportation.__init__( self, start, end, distance)
+        self.start = start
+        self.end = end
+        self.distance = distance
 
+    def find_cost( self ):
+        return self.distance * 40
    
 if __name__ =="__main__":
 
