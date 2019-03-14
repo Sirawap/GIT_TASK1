@@ -11,3 +11,5 @@ Hornet
 Locust
 Louse
 Mosquito
+Stinkbug
+Wasp
