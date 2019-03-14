@@ -73,87 +73,86 @@ Gazelle Mammal
 -----------------------------------
 BILL:
 
-Gerbil
-Giant Panda
-Giraffe
-Gnat
-Gnu
-Goat
-Goose
-Goldfinch
-Goldfish
-Gorilla
-Goshawk
-Grasshopper
-Grouse
-Guanaco
-Guinea fowl
-Guinea pig
-Gull
-Hamster
-Hare
-Hawk
-Hedgehog
-Heron
-Herring
-Hippopotamus
-Hornet
-Horse
-Human
-Hummingbird
-Hyena
-Jackal
-Jaguar
-Jay
-Jay, Blue
+Gerbil Mammal
+Giant Panda Mammal
+Giraffe Mammal
+Gnat Insect
+Gnu Mammal
+Goat Mammal
+Goose Bird
+Goldfinch Fish
+Goldfish Fish
+Gorilla Mammal
+Goshawk Bird
+Grasshopper Insect
+Grouse Bird
+Guanaco Mammal
+Guinea fowl Bird
+Guinea pig Mammal
+Gull Bird
+Hamster Mammal
+Hare Mammal
+Hawk Bird
+Hedgehog Mammal
+Heron Bird
+Herring Fish
+Hippopotamus Mammal
+Hornet Insect
+Horse Mammal
+Human Mammal
+Hummingbird Bird
+Hyena Mammal
+Jackal Mammal
+Jaguar Mammal
+Jay Bird
+Jay, Blue Bird
 Jellyfish
-Kangaroo
-Koala
-Komodo dragon
-Kouprey
-Kudu
-Lapwing
-Lark
-Lemur
-Leopard
-Lion
-Llama
-Lobster
-Locust
-Loris
-Louse
-Lyrebird
-Magpie
-Mallard
-Manatee
-Marten
-Meerkat
-Mink
-Mole
-Monkey
-Moose
-Mouse
-Mosquito
-Mule
-Narwhal
-Newt
-Nightingale
+Kangaroo Mammal
+Koala Mammal
+Komodo dragon Leptile
+Kouprey Mammal
+Kudu Mammal
+Lapwing Bird
+Lark Bird
+Lemur Mammal
+Leopard Mammal
+Lion Mammal
+Llama Mammal
+Lobster 
+Locust Insect
+Loris Mammal
+Louse Insect
+Lyrebird Bird
+Magpie Bird
+Mallard Bird
+Manatee Mammal
+Marten Mammal
+Meerkat Mammal
+Mink Mammal
+Mole Mammal
+Monkey Mammal
+Moose Mammal
+Mouse Mammal
+Mosquito Insect
+Mule Mammal
+Narwhal Mammal
+Newt Amphibia
+Nightingale Bird
 Octopus
-Okapi
-Opossum
-Oryx
-Ostrich
-Otter
-Owl
-Ox
-Oyster
-Panther
-Parrot
-Partridge
-Peafowl
-Pelican
-Penguin
-Pheasant
+Okapi Mammal
+Opossum Mammal
+Oryx Mammal
+Ostrich Bird
+Otter Mammal
+Owl Bird
+Ox Mammal
+Panther Mammal
+Parrot Bird
+Partridge Bird
+Peafowl Bird
+Pelican Bird
+Penguin Bird
+Pheasant Bird
 
 ----------------------------------------
 
