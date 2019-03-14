@@ -151,7 +151,7 @@ Parrot Bird
 Partridge Bird
 Peafowl Bird
 Pelican Bird
-Penguin Bird
+Penguin Mammal
 Pheasant Bird
 
 ----------------------------------------
