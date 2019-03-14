@@ -1,77 +1,75 @@
-Aardvark
-Albatross
-Alligator
-Alpaca
-Ant
-Anteater
-Antelope
-Ape
-Armadillo
-Ass/Donkey
-Baboon
-Badger
-Barracuda
-Bat
-Bear
-Beaver
-Bee
-Bison
-Boar
-Buffalo, African
-Galago
-Butterfly
-Camel
-Caribou
-Cat
-Caterpillar
-Cattle
-Chamois
-Cheetah
-Chicken
-Chimpanzee
-Chinchilla
-Chough
-Clam
-Cobra
-Cockroach
-Cod
-Cormorant
-Coyote
-Crab
-Crane
-Crocodile
-Crow
-Curlew
-Deer
-Dinosaur
-Dog
-Dogfish
-Dolphin
-Donkey
-Dotterel
-Dove
-Dragonfly
-Duck
-Dugong
-Dunlin
-Eagle
-Echidna
-Eel
-Eland
-Elephant
-Elephant seal
-Elk (wapiti)
-Emu
-Falcon
-Ferret
-Finch
-Fish
-Flamingo
-Fly
-Fox
-Frog
-Gaur
-Gazelle
+Aardvark Mammal
+Albatross Bird
+Alligator Reptile
+Alpaca Mammal
+Ant Insect
+Anteater Mammal
+Antelope Mammal
+Ape Mammal
+Armadillo Mammal
+Ass/Donkey Mammal
+Baboon Mammal
+Badger Mammal
+Barracuda Fish
+Bat Mammal
+Bear Mammal
+Beaver Mammal
+Bee Insects
+Bison Mammal
+Boar Mammal
+Buffalo,African Mammal
+Galago Mammal
+Butterfly Insect
+Camel Mammal
+Caribou Mammal
+Cat Mammal
+Caterpillar Insect
+Cattle Mammal
+Chamois Mammal
+Cheetah Mammal
+Chicken Bird
+Chimpanzee Mammal
+Chinchilla Mammal
+Chough Bird
+Cobra Reptile
+Cockroach Insect
+Cod Fish
+Cormorant Bird
+Coyote Mammal
+Crane Bird
+Crocodile Reptile
+Crow Bird
+Curlew Bird
+Deer Mammal
+Dinosaur Reptile
+Dog Mammal
+Dogfish Fish
+Dolphin Mammal
+Donkey Mammal
+Dotterel Bird
+Dove Bird
+Dragonfly Insect
+Duck Bird
+Dugong Mammal
+Dunlin Bird
+Eagle Bird
+Echidna Mammal
+Eel Fish Mammal
+Eland Mammal
+Elephant Mammal
+Elephant seal 	Mammal
+Elk (wapiti)	Mammal
+Emu Bird
+Falcon Bird
+Ferret Mammal
+Finch Bird
+Fish Fish
+Flamingo Bird
+Fly Insect
+Fox Mammal
+Frog Amphilbian
+Gaur Mammal
+Gazelle Mammal
 -----------------------------------
 BILL:
 
