@@ -158,75 +158,76 @@ Pheasant Bird
 
 BRIGHT :
 
-Pig
-Pigeon
-Pony
-Porcupine
-Porpoise
-Prairie Dog
-Quail
-Quelea
-Rabbit
-Raccoon
-Rail
-Ram
-Rat
-Raven
-Red deer
-Red panda
-Reindeer (caribou)
-Rhinoceros
-Rook
-Ruff
-Salamander
-Salmon
-Sand Dollar
-Sandpiper
-Sardine
-Scorpion
-Sea lion
-Sea Urchin
-Seahorse
-Seal
-Shark
-Sheep
-Shrew
-Shrimp
-Skunk
-Snail
-Snake
-Spider
-Squid
-Squirrel
-Starling
-Stingray
-Stinkbug
-Stork
-Swallow
-Swan
-Tapir
-Tarsier
-Termite
-Tiger
-Toad
-Trout
-Turkey
-Turtle
-Vicuna
-Viper
-Vulture
-Wallaby
-Walrus
-Wasp
-Water buffalo
-Weasel
-Whale
-Wolf
-Wolverine
-Wombat
-Woodcock
-Woodpecker
-Worm
-Wren
-Yak
-Zebra
+
+Pig Mammal
+Pigeon Bird
+Pony Mammal
+Porcupine Mammal
+Porpoise Mammal
+Prairie Dog Mammal
+Quail Bird
+Quelea Bird
+Rabbit Mammal
+Raccoon Mammal
+Rail Bird
+Ram Mammal
+Rat Mammal
+Raven Bird
+Red deer Mammal
+Red panda Mammal
+Reindeer(caribou) Mammal
+Rhinoceros Mammal
+Rook Bird
+Ruff Bird
+Salamander Amphibians
+Salmon Fish
+Sand Dollar  
+Sandpiper Bird
+Sardine Fish
+Scorpion ***
+Sea lion Mammal
+Sea Urchin ****
+Seahorse Fish
+Seal Mammal
+Shark Fish
+Sheep Mammal
+Shrew Mammal
+Shrimp *****
+Skunk Mammal
+Snail ****
+Snake reptile
+Spider *****
+Squid *****
+Squirrel Mammal
+Starling Bird
+Stingray Fish
+Stinkbug insect
+Stork Bird
+Swallow Bird
+Swan Bird
+Tapir Mammal
+Tarsier Mammal
+Termite incest
+Tiger mammal
+Toad amphibians
+Trout Fish
+Turkey mammal
+Turtle reptiles
+Vicuna mammal
+Viper reptiles
+Vulture bird
+Wallaby mammal
+Walrus mammal
+Wasp insect
+Water buffalo mammal
+Weasel mammal
+Whale mammal
+Wolf mammal
+Wolverine mammal
+Wombat mammal
+Woodcock bird
+Woodpecker bird
+Worm ****
+Wren bird
+Yak mammal
+Zebra mammal
